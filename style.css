@@ -1,0 +1,13 @@
+body {
+    background-color: #FFF7F7;
+}
+.containar-color {
+    background-color: #FFFFFF;
+}
+.my-color {
+    background-color: #1F1A22;
+    color: #BCA58C;
+}
+.sitebar-border {
+    border-top: 5px solid black;
+}
